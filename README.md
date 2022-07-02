@@ -17,4 +17,5 @@
    
 ## Streamlit App for detecting defected fabrics
 > This repository also contains the source code for streamlit app that deploys the fabric anomaly detection model using OpenCV.
+
 > The application takes the image path as input from the user and then returns the results for the particular fabric
