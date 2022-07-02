@@ -19,3 +19,10 @@
 > This repository also contains the source code for streamlit app that deploys the fabric anomaly detection model using OpenCV.
 
 > The application takes the image path as input from the user and then returns the results for the particular fabric
+
+
+![App Image 1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4v3pgr88kzec04i3hbeb.jpg)
+
+![App Image 2](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fuoaa5w4msw5d4oj972l.jpg)
+
+![App image 3](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c4ahfrik35x5gbjnlyf7.jpg)
